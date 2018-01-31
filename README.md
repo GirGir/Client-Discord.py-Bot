@@ -2,7 +2,7 @@
 
 # GirBot: The intellegent bot for Discord.
 
-Clientbot is a Discord bot written in [Python](https://www.python.org "Python homepage"). It does some cool and rad things
+GirBot is a Discord bot written in [Python](https://www.python.org "Python homepage"). It does some cool and rad things
 
 ### Great, now how do I use it?
-Download the bot, set the dependencies up, then run `bot.py`! (or `bot.sh` on mac/linux)
+Download the bot, set the dependencies up, then run `client.py`! (or `client.sh` on mac/linux)
